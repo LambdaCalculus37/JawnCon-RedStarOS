@@ -1,7 +1,7 @@
 # A Strange Tour of North Korea with Red Star OS
 My slides, presentation, and other bits from my talk for JawnCon 0x1
 
-[![Red Star OS 3.0](images/image.png)]
+![Red Star OS 3.0](images/image.png)
 
 ## What's This All About?
 I was invitied to give my talk about Red Star OS that I gave for DC212
